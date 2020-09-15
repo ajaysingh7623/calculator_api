@@ -1,6 +1,6 @@
 {
 	"name": "calculator-api",
-	"homepage": "https://github.com/ajaysingh7623/calculator_api",
+	"homepage": "https://github.com/Newton-School/ajaysingh7623/calculator_api",
 	"version": "1.0.0",
 	"description": "",
 	"main": "index.js",
@@ -15,12 +15,12 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+ https://github.com/ajaysingh7623/calculator_api.git"
+		"url": "git+ https://github.com/Newton-School/ajaysingh7623/calculator_api.git"
 	},
 	"author": "UA",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/ajaysingh7623/calculator_api"
+		"url": "https://github.com/Newton-School/ajaysingh7623/calculator_api/issues"
 	},
 	"dependencies": {
 		"body-parser": "^1.19.0",
